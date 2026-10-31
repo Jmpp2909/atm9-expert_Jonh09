@@ -649,7 +649,7 @@ ServerEvents.recipes(allthemods => {
     allthemods.recipes.gtceu.assembler('gregification:craft_reactor_core_casing')
         .itemInputs(
             '#forge:frames/terrasteel',
-            '8x #forge:plates/terrasteel',
+            '8x #forge:plates/stainless_steel',
             '8x #forge:plates/umbral_steel',
             '4x botania:mana_diamond'
         )
